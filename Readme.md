@@ -1,7 +1,8 @@
 # GAN_mnist
 Using mnist libray, GAN generates fake images
 
-mnist画像を使って、kerasで構築したGANを試してみましたよーってリポジトリです。
+mnist画像を使って、kerasで構築したGANを試してみましたよーってリポジトリです。  
+ネット上のあらゆるGANの実装コードよりも、'Notebook映え'するように頑張りました。
 
 ### Demo
 - mnist画像といえば[こんな感じ]()ですよね。
