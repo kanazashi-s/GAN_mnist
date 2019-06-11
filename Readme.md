@@ -25,7 +25,7 @@ mnist画像を使って、kerasで構築したGANを試してみましたよー�
 
 - 以上のような感じで、いい感じに学習できたと思います。
 - ただ、画像の中に砂のようなノイズが入っています。これは、畳み込みニューラルネットワークを用いることで解決できます。
-  -[畳み込みニューラルネットワークを使って解決したもの](https://github.com/zashio/DCGAN_mnist)
+-[畳み込みニューラルネットワークを使って解決したもの](https://github.com/zashio/DCGAN_mnist)
 
 ### Usage
 - [Google Colabratory](https://colab.research.google.com/)で、GITHUB上のNotebookを開けるので、zashioのGAN_mnist.ipynbを指定してください。
